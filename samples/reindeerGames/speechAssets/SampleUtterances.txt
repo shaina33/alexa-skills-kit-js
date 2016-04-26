@@ -8,6 +8,8 @@ AMAZON.StartOverIntent start game
 AMAZON.StartOverIntent new game
 AMAZON.StartOverIntent start
 AMAZON.StartOverIntent start new game
+AMAZON.StartOverIntent start a new game
+AMAZON.StartOverIntent start over
 
 DontKnowIntent i don't know
 DontKnowIntent don't know
