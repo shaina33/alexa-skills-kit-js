@@ -1,3 +1,16 @@
+# My Alexa Skills
+I'm currently a student with Bloc, which has partnered with Amazon to have students develop new skills for Alexa.
+Using the templates in the Alexa Skills Kit, I have developed the following skills:
+
+- Learn International Geography: a trivia game about international countries, cities, and more, based on Reindeer Games
+- Marine Mania: provides facts about many types of marine life to help users gain knowledge and pique their curiosity, based on Space Geek
+
+In addition to all of Amazon's and Bloc's resources, I would like to acknowledge the following credits:
+- Skill icons were created by Freepik from Flaticon.com and are licensed under Creative Commons
+- Wikipedia is an amazing source of information, and provided most of the facts for Marine Mania. I suggest everyone supports this resource.
+- Marine Mania facts also came from http://ocean.si.edu, http://www.mesa.edu.au, and http://marinebio.org
+
+
 # Node.js Alexa Skills Kit Samples
 
 ##Alexa Skills Kit Documentation
