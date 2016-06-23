@@ -1,0 +1,33 @@
+GetNewFactIntent a fact
+GetNewFactIntent another fact
+GetNewFactIntent a marine fact
+GetNewFactIntent an animal fact
+GetNewFactIntent an ocean fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a marine fact
+GetNewFactIntent tell me an animal fact
+GetNewFactIntent tell me an ocean fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a marine fact
+GetNewFactIntent give me an animal fact
+GetNewFactIntent give me an ocean fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me marine trivia
+GetNewFactIntent tell me animal trivia
+GetNewFactIntent tell me ocean trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me marine trivia
+GetNewFactIntent give me animal trivia
+GetNewFactIntent give me ocean trivia
+GetNewFactIntent tell me some information
+GetNewFactIntent tell me some info
+GetNewFactIntent tell me some marine information
+GetNewFactIntent tell me some animal information
+GetNewFactIntent tell me some ocean information
+GetNewFactIntent give me some information
+GetNewFactIntent give me some info
+GetNewFactIntent give me some marine information
+GetNewFactIntent give me some animal information
+GetNewFactIntent give me some ocean information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
